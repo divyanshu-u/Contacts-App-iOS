@@ -1,0 +1,13 @@
+
+platform :ios, '13.0'
+target "Contacts App" do
+pod 'Firebase'
+
+use_frameworks!
+# Pinning to the latest version at the time
+pod 'GoogleSignIn', '~> 4.4.0
+workspace '/Users/divyanshu/Desktop/Contacts App/Contacts App/Contacts App.xcworkspace'
+
+
+end
+

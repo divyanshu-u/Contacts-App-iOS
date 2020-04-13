@@ -2,6 +2,27 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Count</key>
+	<integer>0</integer>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>com.DivyanshuUpadhyay.Contacts</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.892891352481-k7ljmldddcccd8u56etbn90r4257ehn1</string>
+			</array>
+		</dict>
+	</array>
+	<key>CLIENT_ID</key>
+	<string>892891352481-k7ljmldddcccd8u56etbn90r4257ehn1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.892891352481-k7ljmldddcccd8u56etbn90r4257ehn1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.DivyanshuUpadhyay.Contacts-App</string>
+	<key>NSContactsUsageDescription</key>
+	<string>This app wants to import contacts</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleExecutable</key>
