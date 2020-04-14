@@ -180,7 +180,7 @@ class TableViewController: UITableViewController {
         
         var conDetail: ContactDetails! = ContactDetails(tick: 0)
         
-        
+        // Added a comment here
         for cell in cells
         {
             if cell.tickBoxImage.image == UIImage(named: "ticked")
